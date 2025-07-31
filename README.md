@@ -19,7 +19,7 @@
 ### 📂 Featured Projects
 - 🧾 [Python-Mini-Projects](https://github.com/imsc-chai/Python-Mini-Projects) – Beginner-friendly CLI tools in Python
 - ☄️ ETL pipeline for **NASA Asteroid Data** using Airflow + Snowflake (in progress)
-- 📈 Stock Price Forecasting using **ML + Alpha Vantage API**
+- 📈 Stock Price Forecasting using **ML + Alpha Vantage API** (in progress)
 
 ---
 
